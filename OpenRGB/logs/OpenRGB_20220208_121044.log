@@ -1,0 +1,107 @@
+    OpenRGB v0.7
+    Commit:  from 
+    Launched: 20220208_121044
+====================================================================================================
+
+0     |Info:    Found file: Candy.orp attempting to validate header
+0     |Info:    Valid v3 profile found for Candy
+0     |Info:    Found file: CyanPink.orp attempting to validate header
+0     |Info:    Valid v3 profile found for CyanPink
+1000  |Info:    ------------------------------------------------------
+1000  |Info:    |               Start device detection               |
+1000  |Info:    ------------------------------------------------------
+1001  |Info:    Initializing HID interfaces: Success
+1005  |Info:    ------------------------------------------------------
+1005  |Info:    |             Detecting I2C interfaces               |
+1005  |Info:    ------------------------------------------------------
+1005  |Info:    Registering I2C interface: /dev/i2c-3 Device 1022:790B Subsystem: 1043:87C0
+1005  |Info:    Registering I2C interface: /dev/i2c-1 Device 1022:790B Subsystem: 1043:87C0
+1005  |Info:    Registering I2C interface: /dev/i2c-8 Device 10DE:1E84 Subsystem: 1458:400D
+1005  |Info:    Registering I2C interface: /dev/i2c-6 Device 10DE:1E84 Subsystem: 1458:400D
+1005  |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:1E84 Subsystem: 1458:400D
+1005  |Info:    Registering I2C interface: /dev/i2c-2 Device 1022:790B Subsystem: 1043:87C0
+1005  |Info:    Registering I2C interface: /dev/i2c-0 Device 10DE:1AD9 Subsystem: 1458:400D
+1005  |Info:    Registering I2C interface: /dev/i2c-9 Device 10DE:1E84 Subsystem: 1458:400D
+1005  |Info:    Registering I2C interface: /dev/i2c-7 Device 10DE:1E84 Subsystem: 1458:400D
+1005  |Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:1E84 Subsystem: 1458:400D
+1005  |Info:    ------------------------------------------------------
+1005  |Info:    |               Detecting I2C devices                |
+1005  |Info:    ------------------------------------------------------
+1061  |Info:    Loading plugins
+1759  |Info:    [ENE DRAM] Registering RGB controller
+1908  |Info:    [ENE DRAM] Registering RGB controller
+2056  |Info:    [ENE DRAM] Registering RGB controller
+2205  |Info:    [ENE DRAM] Registering RGB controller
+2372  |Info:    [Gigabyte RTX2070S Gaming OC 3X White] Registering RGB controller
+2432  |Info:    ------------------------------------------------------
+2432  |Info:    |               Detecting HID devices                |
+2432  |Info:    ------------------------------------------------------
+2444  |Info:    [Razer Blackwidow Chroma] Registering RGB controller
+4241  |Info:    [NZXT Kraken X3] Registering RGB controller
+4319  |Info:    [ASUS PRIME X570-PRO] Registering RGB controller
+7020  |Info:    [NZXT Smart Device V2] Registering RGB controller
+7374  |Info:    Unable add this Logitech device: Not Connected
+7728  |Info:    Unable add this Logitech device: Not Connected
+8082  |Info:    Unable add this Logitech device: Not Connected
+8436  |Info:    Unable add this Logitech device: Not Connected
+8790  |Info:    Unable add this Logitech device: Not Connected
+9144  |Info:    Unable add this Logitech device: Not Connected
+9498  |Info:    Unable add this Logitech device: Not Connected
+9852  |Info:    Unable add this Logitech device: Not Connected
+10206 |Info:    Unable add this Logitech device: Not Connected
+10560 |Info:    Unable add this Logitech device: Not Connected
+10560 |Info:    [Logitech G933 Lightsync Headset] Registering RGB controller
+10560 |Info:    ------------------------------------------------------
+10560 |Info:    |              Detecting other devices               |
+10560 |Info:    ------------------------------------------------------
+10564 |Info:    ------------------------------------------------------
+10564 |Info:    |                Detection completed                 |
+10564 |Info:    ------------------------------------------------------
+110437|Info:    ------------------------------------------------------
+110437|Info:    |               Start device detection               |
+110437|Info:    ------------------------------------------------------
+110437|Info:    Initializing HID interfaces: Success
+110440|Info:    ------------------------------------------------------
+110440|Info:    |             Detecting I2C interfaces               |
+110440|Info:    ------------------------------------------------------
+110441|Info:    Registering I2C interface: /dev/i2c-3 Device 1022:790B Subsystem: 1043:87C0
+110441|Info:    Registering I2C interface: /dev/i2c-1 Device 1022:790B Subsystem: 1043:87C0
+110441|Info:    Registering I2C interface: /dev/i2c-8 Device 10DE:1E84 Subsystem: 1458:400D
+110441|Info:    Registering I2C interface: /dev/i2c-6 Device 10DE:1E84 Subsystem: 1458:400D
+110441|Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:1E84 Subsystem: 1458:400D
+110441|Info:    Registering I2C interface: /dev/i2c-2 Device 1022:790B Subsystem: 1043:87C0
+110441|Info:    Registering I2C interface: /dev/i2c-0 Device 10DE:1AD9 Subsystem: 1458:400D
+110441|Info:    Registering I2C interface: /dev/i2c-9 Device 10DE:1E84 Subsystem: 1458:400D
+110441|Info:    Registering I2C interface: /dev/i2c-7 Device 10DE:1E84 Subsystem: 1458:400D
+110441|Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:1E84 Subsystem: 1458:400D
+110441|Info:    ------------------------------------------------------
+110441|Info:    |               Detecting I2C devices                |
+110441|Info:    ------------------------------------------------------
+111196|Info:    [ENE DRAM] Registering RGB controller
+111344|Info:    [ENE DRAM] Registering RGB controller
+111493|Info:    [ENE DRAM] Registering RGB controller
+111641|Info:    [ENE DRAM] Registering RGB controller
+111809|Info:    [Gigabyte RTX2070S Gaming OC 3X White] Registering RGB controller
+111868|Info:    ------------------------------------------------------
+111868|Info:    |               Detecting HID devices                |
+111868|Info:    ------------------------------------------------------
+111880|Info:    [Razer Blackwidow Chroma] Registering RGB controller
+113655|Info:    [NZXT Kraken X3] Registering RGB controller
+113739|Info:    [ASUS PRIME X570-PRO] Registering RGB controller
+117123|Info:    [NZXT Smart Device V2] Registering RGB controller
+117718|Info:    [Gaming Mouse G900] Registering RGB controller
+117718|Info:    [Logitech G933 Lightsync Headset] Registering RGB controller
+117718|Info:    ------------------------------------------------------
+117718|Info:    |              Detecting other devices               |
+117718|Info:    ------------------------------------------------------
+117718|Info:    ------------------------------------------------------
+117718|Info:    |                Detection completed                 |
+117718|Info:    ------------------------------------------------------
+206816|Info:    Found file: Candy.orp attempting to validate header
+206816|Info:    Valid v3 profile found for Candy
+206816|Info:    Found file: CyanPink.orp attempting to validate header
+206816|Info:    Valid v3 profile found for CyanPink
+248319|Info:    Found file: Candy.orp attempting to validate header
+248319|Info:    Valid v3 profile found for Candy
+248319|Info:    Found file: CyanPink.orp attempting to validate header
+248319|Info:    Valid v3 profile found for CyanPink

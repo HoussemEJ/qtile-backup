@@ -1,0 +1,110 @@
+    OpenRGB v0.7
+    Commit:  from 
+    Launched: 20220209_214549
+====================================================================================================
+
+0     |Info:    Found file: Candy.orp attempting to validate header
+0     |Info:    Valid v3 profile found for Candy
+0     |Info:    Found file: CyanPink.orp attempting to validate header
+0     |Info:    Valid v3 profile found for CyanPink
+1000  |Info:    ------------------------------------------------------
+1000  |Info:    |               Start device detection               |
+1000  |Info:    ------------------------------------------------------
+1000  |Info:    Initializing HID interfaces: Success
+1005  |Info:    ------------------------------------------------------
+1005  |Info:    |             Detecting I2C interfaces               |
+1005  |Info:    ------------------------------------------------------
+1005  |Info:    Registering I2C interface: /dev/i2c-3 Device 10DE:1AD9 Subsystem: 1458:400D
+1005  |Info:    Registering I2C interface: /dev/i2c-1 Device 1022:790B Subsystem: 1043:87C0
+1005  |Info:    Registering I2C interface: /dev/i2c-8 Device 10DE:1E84 Subsystem: 1458:400D
+1005  |Info:    Registering I2C interface: /dev/i2c-6 Device 10DE:1E84 Subsystem: 1458:400D
+1005  |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:1E84 Subsystem: 1458:400D
+1005  |Info:    Registering I2C interface: /dev/i2c-2 Device 1022:790B Subsystem: 1043:87C0
+1005  |Info:    Registering I2C interface: /dev/i2c-0 Device 1022:790B Subsystem: 1043:87C0
+1005  |Info:    Registering I2C interface: /dev/i2c-9 Device 10DE:1E84 Subsystem: 1458:400D
+1005  |Info:    Registering I2C interface: /dev/i2c-7 Device 10DE:1E84 Subsystem: 1458:400D
+1005  |Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:1E84 Subsystem: 1458:400D
+1005  |Info:    ------------------------------------------------------
+1005  |Info:    |               Detecting I2C devices                |
+1005  |Info:    ------------------------------------------------------
+1072  |Info:    Loading plugins
+1798  |Info:    [ENE DRAM] Registering RGB controller
+1947  |Info:    [ENE DRAM] Registering RGB controller
+2096  |Info:    [ENE DRAM] Registering RGB controller
+2245  |Info:    [ENE DRAM] Registering RGB controller
+2379  |Info:    [Gigabyte RTX2070S Gaming OC 3X White] Registering RGB controller
+2439  |Info:    ------------------------------------------------------
+2439  |Info:    |               Detecting HID devices                |
+2439  |Info:    ------------------------------------------------------
+2451  |Info:    [Razer Blackwidow Chroma] Registering RGB controller
+4400  |Info:    [NZXT Kraken X3] Registering RGB controller
+4482  |Info:    [ASUS PRIME X570-PRO] Registering RGB controller
+7789  |Info:    [NZXT Smart Device V2] Registering RGB controller
+8348  |Info:    [Gaming Mouse G900] Registering RGB controller
+8348  |Info:    [Logitech G933 Lightsync Headset] Registering RGB controller
+8348  |Info:    ------------------------------------------------------
+8348  |Info:    |              Detecting other devices               |
+8348  |Info:    ------------------------------------------------------
+8352  |Info:    ------------------------------------------------------
+8352  |Info:    |                Detection completed                 |
+8352  |Info:    ------------------------------------------------------
+83978 |Info:    Found file: solarized.orp attempting to validate header
+83978 |Info:    Valid v3 profile found for solarized
+83978 |Info:    Found file: Candy.orp attempting to validate header
+83978 |Info:    Valid v3 profile found for Candy
+83978 |Info:    Found file: CyanPink.orp attempting to validate header
+83978 |Info:    Valid v3 profile found for CyanPink
+91096 |Info:    Found file: solarized.orp attempting to validate header
+91096 |Info:    Valid v3 profile found for solarized
+91096 |Info:    Found file: Candy.orp attempting to validate header
+91096 |Info:    Valid v3 profile found for Candy
+91096 |Info:    Found file: CyanPink.orp attempting to validate header
+91096 |Info:    Valid v3 profile found for CyanPink
+93826 |Info:    Found file: solarized.orp attempting to validate header
+93826 |Info:    Valid v3 profile found for solarized
+93826 |Info:    Found file: Candy.orp attempting to validate header
+93826 |Info:    Valid v3 profile found for Candy
+93826 |Info:    Found file: CyanPink.orp attempting to validate header
+93826 |Info:    Valid v3 profile found for CyanPink
+96904 |Info:    Found file: solarized.orp attempting to validate header
+96904 |Info:    Valid v3 profile found for solarized
+96904 |Info:    Found file: Candy.orp attempting to validate header
+96904 |Info:    Valid v3 profile found for Candy
+96904 |Info:    Found file: CyanPink.orp attempting to validate header
+96904 |Info:    Valid v3 profile found for CyanPink
+99519 |Info:    Found file: solarized.orp attempting to validate header
+99519 |Info:    Valid v3 profile found for solarized
+99519 |Info:    Found file: Candy.orp attempting to validate header
+99519 |Info:    Valid v3 profile found for Candy
+99519 |Info:    Found file: CyanPink.orp attempting to validate header
+99519 |Info:    Valid v3 profile found for CyanPink
+101256|Info:    Found file: solarized.orp attempting to validate header
+101256|Info:    Valid v3 profile found for solarized
+101256|Info:    Found file: Candy.orp attempting to validate header
+101256|Info:    Valid v3 profile found for Candy
+101256|Info:    Found file: CyanPink.orp attempting to validate header
+101256|Info:    Valid v3 profile found for CyanPink
+102820|Info:    Found file: solarized.orp attempting to validate header
+102820|Info:    Valid v3 profile found for solarized
+102820|Info:    Found file: Candy.orp attempting to validate header
+102820|Info:    Valid v3 profile found for Candy
+102820|Info:    Found file: CyanPink.orp attempting to validate header
+102820|Info:    Valid v3 profile found for CyanPink
+104455|Info:    Found file: solarized.orp attempting to validate header
+104455|Info:    Valid v3 profile found for solarized
+104455|Info:    Found file: Candy.orp attempting to validate header
+104455|Info:    Valid v3 profile found for Candy
+104455|Info:    Found file: CyanPink.orp attempting to validate header
+104455|Info:    Valid v3 profile found for CyanPink
+106612|Info:    Found file: solarized.orp attempting to validate header
+106612|Info:    Valid v3 profile found for solarized
+106612|Info:    Found file: Candy.orp attempting to validate header
+106612|Info:    Valid v3 profile found for Candy
+106612|Info:    Found file: CyanPink.orp attempting to validate header
+106612|Info:    Valid v3 profile found for CyanPink
+108644|Info:    Found file: solarized.orp attempting to validate header
+108644|Info:    Valid v3 profile found for solarized
+108644|Info:    Found file: Candy.orp attempting to validate header
+108644|Info:    Valid v3 profile found for Candy
+108644|Info:    Found file: CyanPink.orp attempting to validate header
+108644|Info:    Valid v3 profile found for CyanPink

@@ -1,0 +1,41 @@
+    OpenRGB v0.7
+    Commit:  from 
+    Launched: 20220211_043346
+====================================================================================================
+
+0     |Info:    Found file: solarized.orp attempting to validate header
+0     |Info:    Valid v3 profile found for solarized
+0     |Info:    Found file: Candy.orp attempting to validate header
+0     |Info:    Valid v3 profile found for Candy
+0     |Info:    Found file: CyanPink.orp attempting to validate header
+0     |Info:    Valid v3 profile found for CyanPink
+1000  |Info:    ------------------------------------------------------
+1000  |Info:    |               Start device detection               |
+1000  |Info:    ------------------------------------------------------
+1001  |Info:    Initializing HID interfaces: Success
+1004  |Info:    ------------------------------------------------------
+1004  |Info:    |             Detecting I2C interfaces               |
+1004  |Info:    ------------------------------------------------------
+1004  |Info:    Registering I2C interface: /dev/i2c-3 Device 1022:790B Subsystem: 1043:87C0
+1004  |Info:    Registering I2C interface: /dev/i2c-1 Device 1022:790B Subsystem: 1043:87C0
+1004  |Info:    Registering I2C interface: /dev/i2c-8 Device 10DE:1E84 Subsystem: 1458:400D
+1004  |Info:    Registering I2C interface: /dev/i2c-6 Device 10DE:1E84 Subsystem: 1458:400D
+1004  |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:1E84 Subsystem: 1458:400D
+1004  |Info:    Registering I2C interface: /dev/i2c-2 Device 1022:790B Subsystem: 1043:87C0
+1004  |Info:    Registering I2C interface: /dev/i2c-0 Device 10DE:1AD9 Subsystem: 1458:400D
+1004  |Info:    Registering I2C interface: /dev/i2c-9 Device 10DE:1E84 Subsystem: 1458:400D
+1005  |Info:    Registering I2C interface: /dev/i2c-7 Device 10DE:1E84 Subsystem: 1458:400D
+1005  |Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:1E84 Subsystem: 1458:400D
+1005  |Info:    ------------------------------------------------------
+1005  |Info:    |               Detecting I2C devices                |
+1005  |Info:    ------------------------------------------------------
+1926  |Info:    [ASUS Aura Motherboard] Registering RGB controller
+2220  |Info:    [ASUS Aura Motherboard] Registering RGB controller
+2468  |Info:    [ASUS Aura Motherboard] Registering RGB controller
+2716  |Info:    [ASUS Aura Motherboard] Registering RGB controller
+3114  |Info:    ------------------------------------------------------
+3114  |Info:    |               Detecting HID devices                |
+3114  |Info:    ------------------------------------------------------
+3134  |Info:    [Razer Blackwidow Chroma] Registering RGB controller
+4952  |Info:    [NZXT Kraken X3] Registering RGB controller
+5031  |Info:    [AULA3-6K75-0207] Could not read config table, can not add device

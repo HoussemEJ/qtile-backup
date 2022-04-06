@@ -1,0 +1,54 @@
+    OpenRGB v0.7
+    Commit:  from 
+    Launched: 20220215_103856
+====================================================================================================
+
+7     |Info:    Found file: solarized.orp attempting to validate header
+7     |Info:    Valid v3 profile found for solarized
+7     |Info:    Found file: Candy.orp attempting to validate header
+7     |Info:    Valid v3 profile found for Candy
+7     |Info:    Found file: CyanPink.orp attempting to validate header
+7     |Info:    Valid v3 profile found for CyanPink
+1008  |Info:    ------------------------------------------------------
+1008  |Info:    |               Start device detection               |
+1008  |Info:    ------------------------------------------------------
+1008  |Info:    Initializing HID interfaces: Success
+1012  |Info:    ------------------------------------------------------
+1012  |Info:    |             Detecting I2C interfaces               |
+1012  |Info:    ------------------------------------------------------
+1012  |Info:    Registering I2C interface: /dev/i2c-3 Device 10DE:1AD9 Subsystem: 1458:400D
+1012  |Info:    Registering I2C interface: /dev/i2c-1 Device 1022:790B Subsystem: 1043:87C0
+1012  |Info:    Registering I2C interface: /dev/i2c-8 Device 10DE:1E84 Subsystem: 1458:400D
+1012  |Info:    Registering I2C interface: /dev/i2c-6 Device 10DE:1E84 Subsystem: 1458:400D
+1012  |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:1E84 Subsystem: 1458:400D
+1012  |Info:    Registering I2C interface: /dev/i2c-2 Device 1022:790B Subsystem: 1043:87C0
+1012  |Info:    Registering I2C interface: /dev/i2c-0 Device 1022:790B Subsystem: 1043:87C0
+1012  |Info:    Registering I2C interface: /dev/i2c-9 Device 10DE:1E84 Subsystem: 1458:400D
+1012  |Info:    Registering I2C interface: /dev/i2c-7 Device 10DE:1E84 Subsystem: 1458:400D
+1012  |Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:1E84 Subsystem: 1458:400D
+1012  |Info:    ------------------------------------------------------
+1012  |Info:    |               Detecting I2C devices                |
+1012  |Info:    ------------------------------------------------------
+1082  |Info:    Loading plugins
+1870  |Info:    ------------------------------------------------------
+1870  |Info:    |               Detecting HID devices                |
+1870  |Info:    ------------------------------------------------------
+1881  |Info:    [Razer Blackwidow Chroma] Registering RGB controller
+4041  |Info:    [NZXT Kraken X3] Registering RGB controller
+4127  |Info:    [ASUS PRIME X570-PRO] Registering RGB controller
+7017  |Info:    [NZXT Smart Device V2] Registering RGB controller
+7912  |Info:    [Gaming Mouse G900] Registering RGB controller
+7913  |Info:    [Logitech G933 Lightsync Headset] Registering RGB controller
+7913  |Info:    ------------------------------------------------------
+7913  |Info:    |              Detecting other devices               |
+7913  |Info:    ------------------------------------------------------
+7916  |Info:    ------------------------------------------------------
+7916  |Info:    |                Detection completed                 |
+7916  |Info:    ------------------------------------------------------
+16472 |Info:    Profile loading: Succeeded for Razer Blackwidow Chroma @ HID: /dev/hidraw4
+16472 |Info:    Profile loading: Succeeded for NZXT Kraken X3 @ HID: /dev/hidraw6
+16472 |Info:    Profile loading: Succeeded for ASUS PRIME X570-PRO @ HID: /dev/hidraw5
+16472 |Info:    Profile loading: Succeeded for NZXT Smart Device V2 @ HID: /dev/hidraw7
+16472 |Info:    Profile loading: Succeeded for Gaming Mouse G900 @ HID: /dev/hidraw12 (Receiver) 
+Wireless Index: 255
+16472 |Info:    Profile loading: Succeeded for Logitech G933 Lightsync Headset @ HID: /dev/hidraw10

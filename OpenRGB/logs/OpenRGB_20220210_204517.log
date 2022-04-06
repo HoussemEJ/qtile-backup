@@ -1,0 +1,60 @@
+    OpenRGB v0.7
+    Commit:  from 
+    Launched: 20220210_204517
+====================================================================================================
+
+0     |Info:    Found file: solarized.orp attempting to validate header
+0     |Info:    Valid v3 profile found for solarized
+0     |Info:    Found file: Candy.orp attempting to validate header
+0     |Info:    Valid v3 profile found for Candy
+0     |Info:    Found file: CyanPink.orp attempting to validate header
+0     |Info:    Valid v3 profile found for CyanPink
+1003  |Info:    ------------------------------------------------------
+1003  |Info:    |               Start device detection               |
+1003  |Info:    ------------------------------------------------------
+1003  |Info:    Initializing HID interfaces: Success
+1006  |Info:    ------------------------------------------------------
+1006  |Info:    |             Detecting I2C interfaces               |
+1006  |Info:    ------------------------------------------------------
+1006  |Info:    Registering I2C interface: /dev/i2c-3 Device 1022:790B Subsystem: 1043:87C0
+1006  |Info:    Registering I2C interface: /dev/i2c-1 Device 1022:790B Subsystem: 1043:87C0
+1007  |Info:    Registering I2C interface: /dev/i2c-8 Device 10DE:1E84 Subsystem: 1458:400D
+1007  |Info:    Registering I2C interface: /dev/i2c-6 Device 10DE:1E84 Subsystem: 1458:400D
+1007  |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:1E84 Subsystem: 1458:400D
+1007  |Info:    Registering I2C interface: /dev/i2c-2 Device 1022:790B Subsystem: 1043:87C0
+1007  |Info:    Registering I2C interface: /dev/i2c-0 Device 10DE:1AD9 Subsystem: 1458:400D
+1007  |Info:    Registering I2C interface: /dev/i2c-9 Device 10DE:1E84 Subsystem: 1458:400D
+1007  |Info:    Registering I2C interface: /dev/i2c-7 Device 10DE:1E84 Subsystem: 1458:400D
+1007  |Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:1E84 Subsystem: 1458:400D
+1007  |Info:    ------------------------------------------------------
+1007  |Info:    |               Detecting I2C devices                |
+1007  |Info:    ------------------------------------------------------
+1764  |Info:    [ENE DRAM] Registering RGB controller
+1913  |Info:    [ENE DRAM] Registering RGB controller
+2062  |Info:    [ENE DRAM] Registering RGB controller
+2211  |Info:    [ENE DRAM] Registering RGB controller
+2387  |Info:    [Gigabyte RTX2070S Gaming OC 3X White] Registering RGB controller
+2447  |Info:    ------------------------------------------------------
+2447  |Info:    |               Detecting HID devices                |
+2447  |Info:    ------------------------------------------------------
+2460  |Info:    [Razer Blackwidow Chroma] Registering RGB controller
+4515  |Info:    [NZXT Kraken X3] Registering RGB controller
+4592  |Info:    [ASUS PRIME X570-PRO] Registering RGB controller
+7426  |Info:    [NZXT Smart Device V2] Registering RGB controller
+7780  |Info:    Unable add this Logitech device: Not Connected
+8134  |Info:    Unable add this Logitech device: Not Connected
+8488  |Info:    Unable add this Logitech device: Not Connected
+8842  |Info:    Unable add this Logitech device: Not Connected
+9196  |Info:    Unable add this Logitech device: Not Connected
+9550  |Info:    Unable add this Logitech device: Not Connected
+9904  |Info:    Unable add this Logitech device: Not Connected
+10258 |Info:    Unable add this Logitech device: Not Connected
+10612 |Info:    Unable add this Logitech device: Not Connected
+10966 |Info:    Unable add this Logitech device: Not Connected
+10966 |Info:    [Logitech G933 Lightsync Headset] Registering RGB controller
+10966 |Info:    ------------------------------------------------------
+10966 |Info:    |              Detecting other devices               |
+10966 |Info:    ------------------------------------------------------
+10970 |Info:    ------------------------------------------------------
+10970 |Info:    |                Detection completed                 |
+10970 |Info:    ------------------------------------------------------

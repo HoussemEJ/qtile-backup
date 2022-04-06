@@ -1,0 +1,150 @@
+    OpenRGB v0.7
+    Commit:  from 
+    Launched: 20220208_175844
+====================================================================================================
+
+0     |Info:    Found file: Candy.orp attempting to validate header
+0     |Info:    Valid v3 profile found for Candy
+0     |Info:    Found file: CyanPink.orp attempting to validate header
+0     |Info:    Valid v3 profile found for CyanPink
+1003  |Info:    ------------------------------------------------------
+1003  |Info:    |               Start device detection               |
+1003  |Info:    ------------------------------------------------------
+1003  |Info:    Initializing HID interfaces: Success
+1007  |Info:    ------------------------------------------------------
+1007  |Info:    |             Detecting I2C interfaces               |
+1007  |Info:    ------------------------------------------------------
+1007  |Info:    Registering I2C interface: /dev/i2c-3 Device 1022:790B Subsystem: 1043:87C0
+1007  |Info:    Registering I2C interface: /dev/i2c-1 Device 1022:790B Subsystem: 1043:87C0
+1007  |Info:    Registering I2C interface: /dev/i2c-8 Device 10DE:1E84 Subsystem: 1458:400D
+1007  |Info:    Registering I2C interface: /dev/i2c-6 Device 10DE:1E84 Subsystem: 1458:400D
+1007  |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:1E84 Subsystem: 1458:400D
+1007  |Info:    Registering I2C interface: /dev/i2c-2 Device 1022:790B Subsystem: 1043:87C0
+1008  |Info:    Registering I2C interface: /dev/i2c-0 Device 10DE:1AD9 Subsystem: 1458:400D
+1008  |Info:    Registering I2C interface: /dev/i2c-9 Device 10DE:1E84 Subsystem: 1458:400D
+1008  |Info:    Registering I2C interface: /dev/i2c-7 Device 10DE:1E84 Subsystem: 1458:400D
+1008  |Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:1E84 Subsystem: 1458:400D
+1008  |Info:    ------------------------------------------------------
+1008  |Info:    |               Detecting I2C devices                |
+1008  |Info:    ------------------------------------------------------
+1071  |Info:    Loading plugins
+1790  |Info:    [ENE DRAM] Registering RGB controller
+1939  |Info:    [ENE DRAM] Registering RGB controller
+2088  |Info:    [ENE DRAM] Registering RGB controller
+2237  |Info:    [ENE DRAM] Registering RGB controller
+2411  |Info:    [Gigabyte RTX2070S Gaming OC 3X White] Registering RGB controller
+2471  |Info:    ------------------------------------------------------
+2471  |Info:    |               Detecting HID devices                |
+2471  |Info:    ------------------------------------------------------
+2483  |Info:    [Razer Blackwidow Chroma] Registering RGB controller
+4272  |Info:    [NZXT Kraken X3] Registering RGB controller
+4358  |Info:    [ASUS PRIME X570-PRO] Registering RGB controller
+7096  |Info:    [NZXT Smart Device V2] Registering RGB controller
+15868 |Info:    [Gaming Mouse G900] Registering RGB controller
+15874 |Info:    [Logitech G933 Lightsync Headset] Registering RGB controller
+15874 |Info:    ------------------------------------------------------
+15874 |Info:    |              Detecting other devices               |
+15874 |Info:    ------------------------------------------------------
+15878 |Info:    ------------------------------------------------------
+15878 |Info:    |                Detection completed                 |
+15878 |Info:    ------------------------------------------------------
+20357 |Info:    Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-1, address 0x70
+20357 |Info:    Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-1, address 0x71
+20357 |Info:    Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-1, address 0x72
+20357 |Info:    Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-1, address 0x73
+20357 |Info:    Profile loading: Succeeded for Gigabyte RTX2070S Gaming OC 3X White @ I2C: /dev/i2c-4, address 0x47
+20357 |Info:    Profile loading: Succeeded for Razer Blackwidow Chroma @ HID: /dev/hidraw4
+20357 |Info:    Profile loading: Succeeded for NZXT Kraken X3 @ HID: /dev/hidraw6
+20357 |Info:    Profile loading: Succeeded for ASUS PRIME X570-PRO @ HID: /dev/hidraw5
+20358 |Info:    Profile loading: Succeeded for NZXT Smart Device V2 @ HID: /dev/hidraw7
+20358 |Info:    Profile loading: Succeeded for Gaming Mouse G900 @ HID: /dev/hidraw12 (Receiver) 
+Wireless Index: 255
+20358 |Info:    Profile loading: Succeeded for Logitech G933 Lightsync Headset @ HID: /dev/hidraw11
+38999 |Info:    Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-1, address 0x70
+38999 |Info:    Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-1, address 0x71
+38999 |Info:    Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-1, address 0x72
+38999 |Info:    Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-1, address 0x73
+38999 |Info:    Profile loading: Succeeded for Gigabyte RTX2070S Gaming OC 3X White @ I2C: /dev/i2c-4, address 0x47
+38999 |Info:    Profile loading: Succeeded for Razer Blackwidow Chroma @ HID: /dev/hidraw4
+38999 |Info:    Profile loading: Succeeded for NZXT Kraken X3 @ HID: /dev/hidraw6
+38999 |Info:    Profile loading: Succeeded for ASUS PRIME X570-PRO @ HID: /dev/hidraw5
+38999 |Info:    Profile loading: Succeeded for NZXT Smart Device V2 @ HID: /dev/hidraw7
+38999 |Info:    Profile loading: FAILED! for Gaming Mouse G900 @ HID: /dev/hidraw12 (Receiver) 
+Wireless Index: 255
+38999 |Info:    Profile loading: Succeeded for Logitech G933 Lightsync Headset @ HID: /dev/hidraw11
+41190 |Info:    Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-1, address 0x70
+41190 |Info:    Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-1, address 0x71
+41190 |Info:    Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-1, address 0x72
+41190 |Info:    Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-1, address 0x73
+41190 |Info:    Profile loading: Succeeded for Gigabyte RTX2070S Gaming OC 3X White @ I2C: /dev/i2c-4, address 0x47
+41190 |Info:    Profile loading: Succeeded for Razer Blackwidow Chroma @ HID: /dev/hidraw4
+41190 |Info:    Profile loading: Succeeded for NZXT Kraken X3 @ HID: /dev/hidraw6
+41190 |Info:    Profile loading: Succeeded for ASUS PRIME X570-PRO @ HID: /dev/hidraw5
+41190 |Info:    Profile loading: Succeeded for NZXT Smart Device V2 @ HID: /dev/hidraw7
+41190 |Info:    Profile loading: FAILED! for Gaming Mouse G900 @ HID: /dev/hidraw12 (Receiver) 
+Wireless Index: 255
+41190 |Info:    Profile loading: Succeeded for Logitech G933 Lightsync Headset @ HID: /dev/hidraw11
+43817 |Info:    Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-1, address 0x70
+43817 |Info:    Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-1, address 0x71
+43817 |Info:    Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-1, address 0x72
+43817 |Info:    Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-1, address 0x73
+43817 |Info:    Profile loading: Succeeded for Gigabyte RTX2070S Gaming OC 3X White @ I2C: /dev/i2c-4, address 0x47
+43817 |Info:    Profile loading: Succeeded for Razer Blackwidow Chroma @ HID: /dev/hidraw4
+43817 |Info:    Profile loading: Succeeded for NZXT Kraken X3 @ HID: /dev/hidraw6
+43817 |Info:    Profile loading: Succeeded for ASUS PRIME X570-PRO @ HID: /dev/hidraw5
+43817 |Info:    Profile loading: Succeeded for NZXT Smart Device V2 @ HID: /dev/hidraw7
+43817 |Info:    Profile loading: Succeeded for Gaming Mouse G900 @ HID: /dev/hidraw12 (Receiver) 
+Wireless Index: 255
+43817 |Info:    Profile loading: Succeeded for Logitech G933 Lightsync Headset @ HID: /dev/hidraw11
+44713 |Info:    Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-1, address 0x70
+44713 |Info:    Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-1, address 0x71
+44713 |Info:    Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-1, address 0x72
+44713 |Info:    Profile loading: Succeeded for ENE DRAM @ I2C: /dev/i2c-1, address 0x73
+44713 |Info:    Profile loading: Succeeded for Gigabyte RTX2070S Gaming OC 3X White @ I2C: /dev/i2c-4, address 0x47
+44713 |Info:    Profile loading: Succeeded for Razer Blackwidow Chroma @ HID: /dev/hidraw4
+44713 |Info:    Profile loading: Succeeded for NZXT Kraken X3 @ HID: /dev/hidraw6
+44713 |Info:    Profile loading: Succeeded for ASUS PRIME X570-PRO @ HID: /dev/hidraw5
+44713 |Info:    Profile loading: Succeeded for NZXT Smart Device V2 @ HID: /dev/hidraw7
+44713 |Info:    Profile loading: Succeeded for Gaming Mouse G900 @ HID: /dev/hidraw12 (Receiver) 
+Wireless Index: 255
+44713 |Info:    Profile loading: Succeeded for Logitech G933 Lightsync Headset @ HID: /dev/hidraw11
+124760|Info:    Found file: Candy.orp attempting to validate header
+124760|Info:    Valid v3 profile found for Candy
+124760|Info:    Found file: CyanPink.orp attempting to validate header
+124760|Info:    Valid v3 profile found for CyanPink
+127505|Info:    Found file: Candy.orp attempting to validate header
+127505|Info:    Valid v3 profile found for Candy
+127505|Info:    Found file: CyanPink.orp attempting to validate header
+127505|Info:    Valid v3 profile found for CyanPink
+130469|Info:    Found file: Candy.orp attempting to validate header
+130469|Info:    Valid v3 profile found for Candy
+130469|Info:    Found file: CyanPink.orp attempting to validate header
+130469|Info:    Valid v3 profile found for CyanPink
+132612|Info:    Found file: Candy.orp attempting to validate header
+132612|Info:    Valid v3 profile found for Candy
+132612|Info:    Found file: CyanPink.orp attempting to validate header
+132612|Info:    Valid v3 profile found for CyanPink
+135721|Info:    Found file: Candy.orp attempting to validate header
+135721|Info:    Valid v3 profile found for Candy
+135721|Info:    Found file: CyanPink.orp attempting to validate header
+135721|Info:    Valid v3 profile found for CyanPink
+137911|Info:    Found file: Candy.orp attempting to validate header
+137911|Info:    Valid v3 profile found for Candy
+137911|Info:    Found file: CyanPink.orp attempting to validate header
+137911|Info:    Valid v3 profile found for CyanPink
+140063|Info:    Found file: Candy.orp attempting to validate header
+140063|Info:    Valid v3 profile found for Candy
+140063|Info:    Found file: CyanPink.orp attempting to validate header
+140063|Info:    Valid v3 profile found for CyanPink
+142343|Info:    Found file: Candy.orp attempting to validate header
+142343|Info:    Valid v3 profile found for Candy
+142343|Info:    Found file: CyanPink.orp attempting to validate header
+142343|Info:    Valid v3 profile found for CyanPink
+144067|Info:    Found file: Candy.orp attempting to validate header
+144067|Info:    Valid v3 profile found for Candy
+144067|Info:    Found file: CyanPink.orp attempting to validate header
+144067|Info:    Valid v3 profile found for CyanPink
+145851|Info:    Found file: Candy.orp attempting to validate header
+145851|Info:    Valid v3 profile found for Candy
+145851|Info:    Found file: CyanPink.orp attempting to validate header
+145851|Info:    Valid v3 profile found for CyanPink

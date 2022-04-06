@@ -1,0 +1,47 @@
+    OpenRGB v0.7
+    Commit:  from 
+    Launched: 20220208_114207
+====================================================================================================
+
+1000  |Info:    ------------------------------------------------------
+1000  |Info:    |               Start device detection               |
+1000  |Info:    ------------------------------------------------------
+1000  |Info:    Initializing HID interfaces: Success
+1005  |Info:    ------------------------------------------------------
+1005  |Info:    |             Detecting I2C interfaces               |
+1005  |Info:    ------------------------------------------------------
+1005  |Info:    Registering I2C interface: /dev/i2c-3 Device 1022:790B Subsystem: 1043:87C0
+1005  |Info:    Registering I2C interface: /dev/i2c-1 Device 1022:790B Subsystem: 1043:87C0
+1005  |Info:    Registering I2C interface: /dev/i2c-8 Device 10DE:1E84 Subsystem: 1458:400D
+1005  |Info:    Registering I2C interface: /dev/i2c-6 Device 10DE:1E84 Subsystem: 1458:400D
+1005  |Info:    Registering I2C interface: /dev/i2c-4 Device 10DE:1E84 Subsystem: 1458:400D
+1005  |Info:    Registering I2C interface: /dev/i2c-2 Device 1022:790B Subsystem: 1043:87C0
+1005  |Info:    Registering I2C interface: /dev/i2c-0 Device 10DE:1AD9 Subsystem: 1458:400D
+1005  |Info:    Registering I2C interface: /dev/i2c-9 Device 10DE:1E84 Subsystem: 1458:400D
+1005  |Info:    Registering I2C interface: /dev/i2c-7 Device 10DE:1E84 Subsystem: 1458:400D
+1005  |Info:    Registering I2C interface: /dev/i2c-5 Device 10DE:1E84 Subsystem: 1458:400D
+1005  |Info:    ------------------------------------------------------
+1005  |Info:    |               Detecting I2C devices                |
+1005  |Info:    ------------------------------------------------------
+1062  |Info:    Loading plugins
+1763  |Info:    [ENE DRAM] Registering RGB controller
+1912  |Info:    [ENE DRAM] Registering RGB controller
+2061  |Info:    [ENE DRAM] Registering RGB controller
+2210  |Info:    [ENE DRAM] Registering RGB controller
+2377  |Info:    [Gigabyte RTX2070S Gaming OC 3X White] Registering RGB controller
+2437  |Info:    ------------------------------------------------------
+2437  |Info:    |               Detecting HID devices                |
+2437  |Info:    ------------------------------------------------------
+2437  |Info:    [Razer Blackwidow Chroma] is not initialized
+2437  |Info:    [NZXT Kraken X3] is not initialized
+2437  |Info:    [Logitech G900 Wireless Gaming Mouse (wired)] is not initialized
+2437  |Info:    [ASUS Aura Motherboard] is not initialized
+2437  |Info:    [NZXT Smart Device V2] is not initialized
+2437  |Info:    [Logitech G900 Wireless Gaming Mouse] is not initialized
+2437  |Info:    [Logitech G933 Lightsync Headset] is not initialized
+2437  |Info:    ------------------------------------------------------
+2437  |Info:    |              Detecting other devices               |
+2437  |Info:    ------------------------------------------------------
+2441  |Info:    ------------------------------------------------------
+2441  |Info:    |                Detection completed                 |
+2441  |Info:    ------------------------------------------------------
