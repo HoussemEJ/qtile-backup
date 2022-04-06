@@ -1,0 +1,11 @@
+[Unit]
+Description=Nfancurve service
+After=default.target
+
+[Service]
+ExecStartPre=/bin/sleep 20
+ExecStart=/bin/sh /usr/bin/nfancurve -c /etc/nfancurve.conf
+KillSignal=SIGINT
+
+[Install]
+WantedBy=default.target
